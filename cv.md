@@ -56,7 +56,7 @@ I want to become a front-end developer and I think that
 
 ---
 ## Education
-+ Bachelor degree: Azerbaijan state oil and industry university(2015-2019)
++ Bachelor degree: Azerbaijan state oil and industry university
 + Master degree: Azerbaijan state oil and industry university(2015-2019)
 + Project management course (DevEducation)
 --- 
